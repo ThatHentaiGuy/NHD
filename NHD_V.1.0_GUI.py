@@ -16,7 +16,7 @@ mode = ""
 browser = ""
 
 
-layout = [  [sg.Text('Nhentai MAGNET Downloader V.1.0'), sg.Push()],
+layout = [  [sg.Text('NHENTAI MAGNET DOWNLOADER V.1.0'), sg.Push()],
             [sg.Text('INSTRUCTIONS')],
             [sg.Text('1. SET DOWNLOAD PATH IN BROWSER OF CHOICE')],
             [sg.Text('1. LOG INTO NHENTAI IN BROWSER (not in incognito mode)')],
